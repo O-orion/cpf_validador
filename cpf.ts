@@ -1,4 +1,4 @@
-var cpf = "04661870290"
+var cpf = "INFORME SEU CPF"
 var cpf_semUltimosDigitos = ""
 
 var total = 0
